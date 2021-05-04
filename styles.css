@@ -32,47 +32,10 @@ body {
   justify-content: center;
 }
 
-.content2 {
-  margin-left: -20%;
-}
-
 .image {
-  min-width: 20%;
-  max-width: 20%;
   border-radius: 100%;
   padding: 0%;
   margin-bottom: -20%;
-  margin-top: -5%;
-}
-
-.image7 {
-  min-width: 25%;
-}
-
-.image6 {
-  min-width: 80%;
-}
-
-.image5 {
-  min-width: 40%;
-}
-
-.image4 {
-  min-width: 50%;
-}
-
-.image3 {
-  min-width: 70%;
-}
-
-.image2 {
-  min-width: 20%;
-  max-width: 20%;
-  border-radius: 100%;
-}
-
-.image1 {
-  min-width: 50%;
-  max-width: 50%;
-  border-radius: 100%;
+  width: 100px;
+  height: 100px;
 }
